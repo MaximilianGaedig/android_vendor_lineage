@@ -278,7 +278,7 @@ else
 endif
 
 PRODUCT_EXTRA_RECOVERY_KEYS += \
-    vendor/lineage/build/target/product/security/lineage
+    vendor/lineage/build/target/product/security/glassrom
 
 -include vendor/lineage-priv/keys/keys.mk
 
